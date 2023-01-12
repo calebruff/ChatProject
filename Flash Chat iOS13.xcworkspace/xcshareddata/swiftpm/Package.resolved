@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "iqkeyboardmanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hackiftekhar/IQKeyboardManager.git",
+      "state" : {
+        "revision" : "24d498a97dcec4264adbd85a531c3c3eabd10c1e",
+        "version" : "6.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
